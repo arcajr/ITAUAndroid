@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019765851759",
+    "project_id": "desafioitau-421805",
+    "storage_bucket": "desafioitau-421805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019765851759:android:f5411c8c703cef40526f9a",
+        "android_client_info": {
+          "package_name": "com.example.earthquakeitau"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQcWtxB_Jp2JVwrNhb637fiRD6ZbLY09U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
